@@ -98,4 +98,3 @@ npm run dev
 
 **Sultan Nabil**
 * [GitHub](https://github.com/SultanNabil2002)
-* *(Tambahkan link LinkedIn Anda di sini)*
